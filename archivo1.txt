@@ -1,0 +1,7 @@
+Siempre se puede, lograre ser un genio en el mundo informático,
+sobre todo en la ciberseguridad.
+git status= nos muestra el estado actual del repositorio 
+git add = es para selecionar que archivos estaran listos para ser subido(
+    pasan a la etapa de "stage"
+)
+ 

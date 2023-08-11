@@ -4,4 +4,5 @@ git status= nos muestra el estado actual del repositorio
 git add = es para selecionar que archivos estaran listos para ser subido(
     pasan a la etapa de "stage"
 )
+git commit -m"algo que tenga sentido"= para subir nuestros archivos
  

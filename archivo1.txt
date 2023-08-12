@@ -6,3 +6,4 @@ git add = es para selecionar que archivos estaran listos para ser subido(
 )
 git commit -m"algo que tenga sentido"= para subir nuestros archivos
  rm= eliminaar archivos dentro de repositorios
+ chanchito feliz para ejemplo
